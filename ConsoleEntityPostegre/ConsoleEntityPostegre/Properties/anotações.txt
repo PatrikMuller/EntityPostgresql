@@ -1,0 +1,2 @@
+﻿https://www.devmedia.com.br/como-conectar-ao-postgresql-no-entity-framework/38987
+https://docs.microsoft.com/pt-br/aspnet/mvc/mvc5
